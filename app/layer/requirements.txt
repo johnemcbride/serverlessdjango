@@ -1,0 +1,7 @@
+-i https://pypi.org/simple
+apig-wsgi==2.18.0; python_version >= '3.8'
+asgiref==3.7.2; python_version >= '3.7'
+backports.zoneinfo==0.2.1; python_version < '3.9'
+django==4.2.10; python_version >= '3.8'
+sqlparse==0.4.4; python_version >= '3.5'
+typing-extensions==4.10.0; python_version < '3.11'
